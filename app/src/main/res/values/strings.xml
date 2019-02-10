@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct !!</string>
+    <string name="incorrect_toast">Incorrect !!</string>
+
+    <string name="question_1">new york is the largest city</string>
+    <string name="question_2">sun rises in the west"</string>
+    <string name="question_3">pacific ocean is larger than atlantic ocean</string>
+
+    <string name="warning_text">Sure want to see the answer?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="judgement_toast">You cheated</string>
+</resources>
